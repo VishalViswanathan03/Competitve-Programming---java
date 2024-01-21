@@ -1,0 +1,4 @@
+phy(n)    euler totient function
+
+the number x<=n sunch that gcd(x,n)/phy(n)=1
+
